@@ -7,7 +7,7 @@ The following are visualisations I programmed in python for a recent class on da
 *These binned scatterplots use data from the 2020 Nativity Public Use File from the Center for Disease Control and Prevention (CDC). The CDC publishes such data every year for public research and analysis. Ages are put into bins of 2 years starting at 16. Data about births with parents younger than 16 or older than 50, or where the age of one parent is unknown, is not shown. Notice the scale of each scatterplot, that there are many more married births than unmarried.*
 
 ### Prevalence of Disability by County in the United States in 2018
-![](/images/disability%20map%20copy.png)
+![](/images/disability_map.png)
 *Lighter colors represent a higher estimated percentage of the county population with disability. Grey counties do not have data. Estimates of prevalence of disability for counties taken from the Centers for Disease and Control Agencies for Toxic Substances and Disease Registry (ATSDR) Social Vulnerability Index*
 
 ### Mapping Character interactions in the Script for *Revenge of the Sith*
