@@ -1,6 +1,6 @@
 # Some Recent Visualisations
 
-Some recent visualisations I made for assignments. 
+Some visualisations I programmed in python for a recent class on data visualisation and communication. For the graph and map I used the Altair library, and for the network I used the NetworkX library. 
  
 ### Mother’s vs Father’s Age for Married and Unmarried White Parents in 2020
 ![](/images/Portfolio%20Binned%20Scatterplots%203.png)
