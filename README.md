@@ -10,7 +10,7 @@ Some recent visualisations I made for assignments.
 ![](https://github.com/maxwellskay/Maxwell_Kay_Portfolio/blob/main/images/disability%20map%20copy.png)
 *Lighter colors represent a higher estimated percentage of the county population with disability. Grey counties do not have data. Estimates of prevalence of disability for counties taken from the Centers for Disease and Control Agencies for Toxic Substances and Disease Registry (ATSDR) Social Vulnerability Index*
 
-### Prevalence of Disability by County in the United States in 2018
+### Mapping Character interactions in the Script for *Revenge of the Sith*
 ![](https://github.com/maxwellskay/Maxwell_Kay_Portfolio/blob/main/images/Portfolio%20Network%20Image.png)
 *This visualisation maps character interactions in the script for Revenge of the Sith. The area of circles corresponds to the number of scenes a character appears in, and the width of the line connecting them represents the number of interactions they share with the other character. Data taken from Eve Linag’s blogpost “The Star Wars Social Network”. https://github.com/evelinag/StarWars-social-network*
 
